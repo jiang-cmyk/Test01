@@ -11,8 +11,8 @@ public class test2 {
 
 		String Input = "C:\\Users\\ABC\\Desktop\\2022-10\\data20221024";
 		String Output = "C:/Users/ABC/Desktop/Output";
-		Date stdate =new SimpleDateFormat("yyyy-MM-dd").parse("2023-09-25");
-		Date endate =new SimpleDateFormat("yyyy-MM-dd").parse("2023-10-24");
+		Date stdate =new SimpleDateFormat("yyyy-MM-dd").parse("2022-09-25");
+		Date endate =new SimpleDateFormat("yyyy-MM-dd").parse("2022-10-24");
 
 		caculate caculate = new caculate();
 		caculate.run(Input, Output, stdate, endate);
