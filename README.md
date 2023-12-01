@@ -26,7 +26,7 @@
 ## 参数添加
 `/src/test1/test2.java` 中修改：
 
-Input：输入文件路径 _../月底统计xxxx_ 
+Input：输入文件路径 `../月底统计xxxx`
 
 Output: 输出文件路径 
 
