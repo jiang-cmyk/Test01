@@ -35,7 +35,7 @@ stdate：数据起始日期
 endate：数据截至日期
 
 ## 开始运行
-预计10-20min:sweat_smile:
+Estimating 10-20 minutes before finishing :sweat_smile:
 
 # Results
 
