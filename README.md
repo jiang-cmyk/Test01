@@ -6,8 +6,8 @@
 * JAVA 1.8 runtime environment (JAVA_HOME)
 * Hadoop __offline__ environment (HADOOP_HOME)
 ## Dependency Building
-* Add packages under `/lib` to project dependencies
-* Run the 'pom' file
+* Add `.jar` file under `/lib` to the project dependencies
+* Run the 'pom.xml' file
 ## Data Preparation
 > ../月底统计xxxx/变更情况表
 > 
