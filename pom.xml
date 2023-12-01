@@ -28,7 +28,12 @@
   <artifactId>poi</artifactId>
   <version>5.0.0</version>
 </dependency>
-	
+		<!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+<dependency>
+    <groupId>com.opencsv</groupId>
+    <artifactId>opencsv</artifactId>
+    <version>5.7.0</version>
+</dependency>
   <dependency>
   <groupId>sh.joinery</groupId>
   <artifactId>joinery-dataframe</artifactId>
