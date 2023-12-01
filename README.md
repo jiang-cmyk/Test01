@@ -9,17 +9,17 @@
 * Add `.jar` file under `/lib` to the project dependencies
 * Run the 'pom.xml' file
 ## Data Preparation
-> ../月底统计xxxx/变更情况表
+> ../月底统计/变更情况表
 > 
-> ../月底统计xxxx/分支机构表
+> ../月底统计/分支机构表
 > 
-> ../月底统计xxxx/企业关系人表
+> ../月底统计/企业关系人表
 > 
-> ../月底统计xxxx/迁移信息表
+> ../月底统计/迁移信息表
 > 
-> ../月底统计xxxx/异常名录
+> ../月底统计/异常名录
 > 
-> ../月底统计xxxx/主体登记
+> ../月底统计/主体登记
 > 
 <u>The folder name needs to be consistent</u>
 
