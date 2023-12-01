@@ -26,7 +26,7 @@
 ## Add parameters
 Make modifications in `/src/test1/test2.java`：
 
-Input：The path of the input file `../月底统计xxxx`
+Input：The path of the input file `../月底统计`
 
 Output: The path of the output file
 
