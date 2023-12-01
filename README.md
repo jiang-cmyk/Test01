@@ -1,14 +1,14 @@
 # 企业活跃度月份处理算法
 # Dependence
 :eyes::eyes::eyes:
-# Quick start
-## 环境配置（添加环境变量）
+# Quick Start
+## Environment configuration (adding environment variables)
 * JAVA 1.8 runtime environment (JAVA_HOME)
 * Hadoop __offline__ environment (HADOOP_HOME)
-## 依赖构建
-* 添加 `/lib` 下的包到项目依赖
-* 构建 `pom` 文件
-## 数据准备
+## Dependency Building
+* Add packages under `/lib` to project dependencies
+* Run the 'pom' file
+## Data Preparation
 > ../月底统计xxxx/变更情况表
 > 
 > ../月底统计xxxx/分支机构表
@@ -21,20 +21,20 @@
 > 
 > ../月底统计xxxx/主体登记
 > 
-<u>文件夹名称需一致</u>
+<u>The folder name needs to be consistent</u>
 
-## 参数添加
-`/src/test1/test2.java` 中修改：
+## Add parameters
+Make modifications in `/src/test1/test2.java`：
 
-Input：输入文件路径 `../月底统计xxxx`
+Input：The path of the input file `../月底统计xxxx`
 
-Output: 输出文件路径 
+Output: The path of the output file
 
-stdate：数据起始日期
+stdate：Starting date of data
 
-endate：数据截至日期
+endate：Ending date of data
 
-## 开始运行
+## Start Running
 Estimating 10-20 minutes before finishing :sweat_smile:
 
 # Results
